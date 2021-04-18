@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(163, 162, 161);
+}
+#bg-img
+{
+    background: url('../images/cristofer-jeschke-PP1yKpfA4HY-unsplash.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 450px;
+    display: flex;
+}
+#aboutme .container{
+    margin-top: -15px;
+}
+
+.card-body .card-title{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+
+.card-group {
+    margin-bottom: 20px;
+}
+
+#Contact .name{
+    margin-left: 2em;
+    margin-right: 50%;
+}
+#Contact .email{
+    margin-left: 2em;
+    margin-right: 50%;
+}
+#Contact .message{
+    margin-left: 2em;
+    margin-right: 30%;
+}
+#Contact .Submit{
+    margin-left: 2em;
+
+}
