@@ -8,9 +8,12 @@ body{
     background-repeat: no-repeat;
     min-height: 450px;
     display: flex;
+    position: static;
+
 }
 #aboutme .container{
     margin-top: -15px;
+    
 }
 
 .card-body .card-title{
@@ -38,4 +41,17 @@ body{
 #Contact .Submit{
     margin-left: 2em;
 
+}
+#AboutMe{
+    margin-top: -20em;
+}
+#AboutMe .image{
+    margin-left: 3.35em;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+@media only screen and (min-width: 768px) {
+    #AboutMe .title{
+        text-align: center;
+    }
 }
