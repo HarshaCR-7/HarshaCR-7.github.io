@@ -6,7 +6,7 @@
 }
 
 .home {
-  background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.1))), url("/dist/img/IMG_20190120_084307_1-02.jpeg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.1))), url("blob:https://web.whatsapp.com/eb1f6e16-b262-4b62-b088-21d495191713") center top;
   background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.1)), url("/dist/img/IMG_20190120_084307_1-02.jpeg") center top;
   background-size: cover;
   height: 100%;
