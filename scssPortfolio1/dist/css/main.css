@@ -6,7 +6,7 @@
 }
 
 .home {
-  background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.1))), url("/dist/img/IMG_20190120_084307_1-02.jpeg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(#272727), to(rgba(39, 39, 39, 0.1))), url("https://drive.google.com/file/d/13odxgNiuoHgvF0fGK5giTi6BySmHcbUZ/view?usp=sharing") center top;
   background: linear-gradient(to right, #272727, rgba(39, 39, 39, 0.1)), url("/dist/img/IMG_20190120_084307_1-02.jpeg") center top;
   background-size: cover;
   height: 100%;
