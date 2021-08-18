@@ -79,7 +79,7 @@ h1{
 	border: none;
 	color: #fff;
 	font-size: 1.4rem;
-	width: 1500px;
+	width: 200px;
 }
 
 .editbutton{
@@ -115,7 +115,7 @@ h1{
   border: lime;
   height: 50px;
   border-radius: 50px;
-  width: 110px;
+  width: 95px;
   cursor: pointer;
   font-size: 1.15rem;
   font-family: 'Oswald', sans-serif;

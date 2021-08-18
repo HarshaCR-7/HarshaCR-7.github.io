@@ -31,7 +31,7 @@ constructor(name){
    edit.addEventListener('click', () => this.edit(input, name));
 
    var remove = document.createElement('button');
-   remove.innerHTML = "DELETE";
+   remove.innerHTML = "CLEAR";
    remove.classList.add('removebutton');
    
    remove.addEventListener('click', () => this.remove(itemBox, name));
