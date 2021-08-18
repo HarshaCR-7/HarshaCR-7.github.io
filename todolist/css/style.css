@@ -128,7 +128,8 @@ h1{
   }
   
 }
-@media only screen and (min-width: 1080px){
+
+@media only screen and (min-width: 840px){
   .item_input{
     background: none;
     outline: none;
@@ -136,6 +137,18 @@ h1{
     color: #fff;
     font-size: 1.4rem;
     width: 600px;
+  }
+
+}
+
+@media only screen and (min-width: 1200px){
+  .item_input{
+    background: none;
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 1.4rem;
+    width: 1000px;
   }
 
 }
