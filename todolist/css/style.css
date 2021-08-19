@@ -86,7 +86,7 @@ h1{
   border: lime;
   height: 50px;
   border-radius: 50px;
-  width: 70px;
+  width: 50px;
   cursor: pointer;
   transition: .5s;
   font-family: 'Oswald', sans-serif;
@@ -108,7 +108,7 @@ h1{
   border: lime;
   height: 50px;
   border-radius: 50px;
-  width: 95px;
+  width: 50px;
   cursor: pointer;
   font-size: 1.15rem;
   font-family: 'Oswald', sans-serif;
@@ -124,7 +124,7 @@ h1{
     border: none;
     color: #fff;
     font-size: 1.4rem;
-    width: 210px;
+    width: 260px;
   }
   
 }

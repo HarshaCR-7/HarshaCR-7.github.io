@@ -27,11 +27,11 @@ constructor(name){
 
    var edit = document.createElement('button');
    edit.classList.add('editbutton');
-   edit.innerHTML = "EDIT";
+   edit.innerHTML = '<i class="fas fa-edit"></i>';
    edit.addEventListener('click', () => this.edit(input, name));
 
    var remove = document.createElement('button');
-   remove.innerHTML = "CLEAR";
+   remove.innerHTML = '<i class="fas fa-trash"></i>';
    remove.classList.add('removebutton');
    
    remove.addEventListener('click', () => this.remove(itemBox, name));
